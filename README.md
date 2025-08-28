@@ -70,5 +70,7 @@ echo Сбор данных по акциям завершен
 
 pause
 
+#Пример json файла в итоге:
 
+<img width="1918" height="2949" alt="2025-08-28_094922" src="https://github.com/user-attachments/assets/0d965c06-1c2e-47b6-be31-940390314f30" />
 
