@@ -5,9 +5,9 @@
 
 # Структура проекта
 
-├── ## futures_collector.py    # Сборщик данных по фьючерсам (FORTS)
+├── futures_collector.py    # Сборщик данных по фьючерсам (FORTS)
 
-├── ## shares_collector.py     # Сборщик данных по акциям (TQBR)
+├── shares_collector.py     # Сборщик данных по акциям (TQBR)
 
 ├── moex_data/              # Папка для хранения данных
 
